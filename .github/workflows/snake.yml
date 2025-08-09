@@ -10,15 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Generate snake
-        uses: platane/snk@v3
+      - uses: platane/snk@v3
         with:
           github_user_name: FlyingVoodoo
-          outputs: dist/github-snake.svg
-      - name: Commit and Push
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add dist/github-snake.svg
-          git commit -m "Generate GitHub snake"
-          git push
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#84a0c6,#4172a9,#3a5d91&color_snake_dots=orange
