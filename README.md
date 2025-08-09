@@ -49,7 +49,3 @@ When I'm not coding, I love diving into new software, keeping up with tech trend
 <a href="https://t.me/fi155333">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-
-<p align="center">
-  <img src="https://github.com/FlyingVoodoo/FlyingVoodoo/raw/output/dist/github-snake.svg" alt="GitHub Snake" />
-</p>
