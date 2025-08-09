@@ -51,5 +51,5 @@ When I'm not coding, I love diving into new software, keeping up with tech trend
 </a>
 
 <p align="center">
-  <img src="https://github.com/FlyingVoodoo/FlyingVoodoo/raw/main/dist/github-snake.svg" alt="GitHub Snake" />
+  <img src="https://github.com/FlyingVoodoo/FlyingVoodoo/blob/output/snake.gif?raw=true" alt="github-snake" />
 </p>
