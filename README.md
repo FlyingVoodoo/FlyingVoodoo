@@ -49,3 +49,6 @@ When I'm not coding, I love diving into new software, keeping up with tech trend
 <a href="https://t.me/fi155333">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+<a href="https://discordapp.com/users/1905trdntfl">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+</a>
