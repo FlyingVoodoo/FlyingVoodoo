@@ -1,16 +1,27 @@
 # Hi there, I’m FlyingVoodoo! 👋
 
-🎓 **Student Developer** based in Moscow  
+🎓 **Student Developer** at the Moscow Aviation Institute(MAI) in Moscow  
 💻 Currently building: **EchoGl** (work in progress)  
-🛠️ Languages: **Python**, **Go** (check out my repos for more!)  
+🛠️ Languages: **Python**, **Go**, **С++** (check out my repos for more!)  
 🎮 Interests: Gaming, music, computer hardware, and open source  
 🌱 Always learning, tinkering, and sharing new ideas  
 
 ---
 
 ## 🚀 About Me
+I'm a passionate student developer based in Moscow, with a special focus on Python, C++ and Go. While I'm building a strong foundation in Computer Science, my heart is in game development. This is more than just a hobby—it's a long-standing dream that I'm working to turn into a career.
 
-Passionate student developer from Moscow, exploring the worlds of Python, C++ and Go. I love building open source projects, tinkering with computer hardware, and leveling up my skills through music, gaming, and collaboration. Always eager to learn, share, and contribute!
+I love the challenge of building projects from scratch and the hands-on experience of working with computer hardware. I'm also really interested in the open source world and look forward to contributing to projects in the future. When I'm not coding, I'm diving into music and video games. I also believe in the power of collaboration and always look forward to learning from fellow developers. I'm always searching for new ways to learn and grow, both as a person and as a developer.
+
+---
+
+## My stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,py,cpp,go,docker,github,linux,unreal,postgres" />
+  </a>
+</p>
 
 ---
 
@@ -32,12 +43,6 @@ Passionate student developer from Moscow, exploring the worlds of Python, C++ an
 ---
 
 ![Views](https://komarev.com/ghpvc/?username=FlyingVoodoo&color=blue)
-
----
-
-## ✨ A Little More
-
-When I'm not coding, I love diving into new software, keeping up with tech trends, and finding inspiration in music. Got an open-source idea? Let's connect!
 
 ---
 
