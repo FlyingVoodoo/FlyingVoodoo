@@ -9,9 +9,9 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate student developer based in Moscow, with a special focus on Python, C++ and Go. While I'm building a strong foundation in Computer Science, my heart is in game development. This is more than just a hobby—it's a long-standing dream that I'm working to turn into a career.
+I'm a student developer based in Moscow, with a special focus on Python, C++ and Go. While I'm building a strong foundation in Computer Science, my heart is in game development. This is more than just a hobby - it's a long-standing dream that I'm working to turn into a career.
 
-I love the challenge of building projects from scratch and the hands-on experience of working with computer hardware. I'm also really interested in the open source world and look forward to contributing to projects in the future. When I'm not coding, I'm diving into music and video games. I also believe in the power of collaboration and always look forward to learning from fellow developers. I'm always searching for new ways to learn and grow, both as a person and as a developer.
+I love the challenge of building projects from scratch and the hands-on experience of working with computer hardware. I'm also really interested in the open source world and look forward to contributing to projects in the future. When I'm not coding, I'm diving into music and video games. I'm always searching for new ways to learn and grow, both as a person and as a developer.
 
 ---
 
