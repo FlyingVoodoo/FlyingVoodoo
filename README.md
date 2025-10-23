@@ -24,12 +24,6 @@ I love the challenge of building projects from scratch and the hands-on experien
 
 ---
 
-## 🔥 Featured Project
-
-- [EchoGl](https://github.com/FlyingVoodoo/EchoGL) — _Currently in development!_
-
----
-
 
 ## 📊 GitHub Stats
 
