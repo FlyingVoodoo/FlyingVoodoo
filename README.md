@@ -18,7 +18,7 @@ I love the challenge of building projects from scratch and the hands-on experien
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,cmake,py,docker,github,linux,unreal,postgres,gitlab,unity" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,cmake,py,docker,github,linux,unreal,postgres,gitlab" />
   </a>
 </p>
 
