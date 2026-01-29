@@ -1,7 +1,7 @@
 # Hi there, I’m FlyingVoodoo! 👋
 
 - 🎓 **Student Developer** at the Moscow Aviation Institute(MAI) in Moscow
-- 🛠️ Languages: **Python**, **C/С++**.
+- 🛠️ Languages: **C/С++**, **C#**, **Python**.
 - 🎮 Interests: Gaming, music, computer hardware
 - 🌱 Always learning, tinkering, and sharing new ideas
 
