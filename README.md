@@ -1,16 +1,8 @@
-# Hi there, I’m FlyingVoodoo! 👋
+# You welcome, I’m FlyingVoodoo
 
 - 🎓 **Student Developer** at the Moscow Aviation Institute(MAI) in Moscow
 - 🛠️ Languages: **C/С++**, **C#**, **Python**.
 - 🎮 Interests: Gaming, music, computer hardware
-- 🌱 Always learning, tinkering, and sharing new ideas
-
----
-
-## 🚀 About Me
-I'm a student developer based in Moscow, with a special focus on C++. While I'm building a strong foundation in Computer Science, my heart is in game development. This is more than just a hobby - it's a long-standing dream that I'm working to turn into a career.
-
-I love the challenge of building projects from scratch and the hands-on experience of working with computer hardware. When I'm not coding, I'm diving into music and video games. I'm always searching for new ways to learn and grow, both as a person and as a developer.
 
 ---
 
@@ -39,7 +31,7 @@ I love the challenge of building projects from scratch and the hands-on experien
 
 ---
 
-## 🤝 Let's Connect!
+## Connections
 
 <a href="mailto:motysha1905@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
