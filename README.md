@@ -16,6 +16,10 @@ FlyingVoodoo writes C++. studies at MAI. that's about it.
 
 ---
 
+![](https://komarev.com/ghpvc/?username=FlyingVoodoo&color=blue&style=flat)
+
+---
+
 <a href="mailto:motysha1905@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
