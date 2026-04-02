@@ -24,7 +24,7 @@
 
 ---
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=2f3147&status_color=7982da&user=ТВОЙ_ID_SPOTIFY)](https://open.spotify.com/user/ТВОЙ_ID_SPOTIFY)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=2f3147&status_color=7982da&user=ТВОЙ_ID_SPOTIFY)]([https://open.spotify.com/user/](https://open.spotify.com/user/31mtrw3ujrswku6f6gm2wxdvpnde?si=4b841ccd00d144ff))
 
 ---
 
