@@ -24,6 +24,10 @@
 
 ---
 
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=2f3147&status_color=7982da&user=ТВОЙ_ID_SPOTIFY)](https://open.spotify.com/user/ТВОЙ_ID_SPOTIFY)
+
+---
+
 <p align="center">
 <a href="mailto:motysha1905@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://t.me/fi155333"><img src="https://img.shields.io/badge/Telegram-121212?style=flat-square&logo=telegram&logoColor=white" /></a>
