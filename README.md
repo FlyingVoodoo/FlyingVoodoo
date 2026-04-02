@@ -12,7 +12,7 @@ FlyingVoodoo writes C++. studies at MAI. that's about it.
 
 ![streak](https://streak-stats.demolab.com?user=FlyingVoodoo&theme=tokyonight)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingVoodoo&layout=compact&theme=tokyonight)
+![langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FlyingVoodoo&theme=tokyonight)
 
 ---
 
