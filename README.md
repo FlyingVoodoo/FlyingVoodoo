@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FlyingVoodoo&color=333333&style=flat-square&label=ProfileViews" />
+  <img src="https://komarev.com/ghpvc/?username=FlyingVoodoo&color=333333&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 ---
