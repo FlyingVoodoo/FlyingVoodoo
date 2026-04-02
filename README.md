@@ -1,4 +1,5 @@
 FlyingVoodoo writes C++. studies at MAI. that's about it.
+Writing more code than my IDE (mostly).
 
 ---
 
