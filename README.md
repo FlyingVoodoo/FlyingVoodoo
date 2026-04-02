@@ -2,8 +2,6 @@ FlyingVoodoo writes C++. studies at MAI. that's about it.
 
 ---
 
-C / C++ / C# / Python
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,cmake,py,docker,github,linux,unreal,postgres,gitlab" />
@@ -12,9 +10,9 @@ C / C++ / C# / Python
 
 ---
 
-![FlyingVoodoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyingVoodoo&show_icons=true&theme=tokyonight)
+![streak](https://streak-stats.demolab.com?user=FlyingVoodoo&theme=tokyonight)
 
-![Top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingVoodoo&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingVoodoo&layout=compact&theme=tokyonight)
 
 ---
 
