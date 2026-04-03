@@ -12,6 +12,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=white&color=1D1B27" />
+  <img src="https://img.shields.io/badge/Vulkan-%23FFFFFF.svg?style=for-the-badge&logo=vulkan&logoColor=white&color=1D1B27" />
+  <img src="https://img.shields.io/badge/DirectX-%23FFFFFF.svg?style=for-the-badge&logo=microsoft&logoColor=white&color=1D1B27" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FlyingVoodoo&theme=tokyonight" width="45%" />
   <img src="https://streak-stats.demolab.com?user=FlyingVoodoo&theme=tokyonight&hide_border=true" width="45%" />
 </p>
