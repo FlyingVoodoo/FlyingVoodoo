@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=100&section=header&text=CONNECTION%20ESTABLISHED&fontSize=40&fontAlignY=50&animation=twinkling&theme=tokyonight" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=100&section=header&text=WELCOME&fontSize=40&fontAlignY=50&animation=twinkling&theme=tokyonight" />
 
 ### FlyingVoodoo writes C++. studies at MAI. that's about it.
 ### Writing more code than my IDE (mostly).
