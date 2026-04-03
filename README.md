@@ -28,9 +28,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FlyingVoodoo&color=333333&style=flat-square&label=SYSTEM+ACCESS" />
-</p>
+<details>
+<summary><b>[ personal_note ]</b></summary>
+<br>
+<blockquote> "Just when I thought I was out, they pull me back in." — Silvio Dante </blockquote>
+</details>
 
 <p align="center">
 <a href="mailto:motysha1905@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=flat-square&logo=gmail&logoColor=white" /></a>
