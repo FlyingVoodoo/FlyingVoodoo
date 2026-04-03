@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mtrw3ujrswku6f6gm2wxdvpnde&cover_image=true&theme=tokyonight" width="450" />
+  <img src="https://spotify-readme-rust.vercel.app/api/status?uid=31mtrw3ujrswku6f6gm2wxdvpnde&theme=tokyonight&show_bar=true" width="400" />
 </p>
 
 ---
