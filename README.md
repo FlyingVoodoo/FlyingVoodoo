@@ -9,26 +9,20 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FlyingVoodoo&theme=tokyonight" width="45%" />
   <img src="https://streak-stats.demolab.com?user=FlyingVoodoo&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FlyingVoodoo&color=333333&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FlyingVoodoo&bg_color=1a1b27&color=7982da&line=7982da&point=7982da&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FlyingVoodoo&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=FlyingVoodoo&color=333333&style=flat-square&label=SYSTEM+ACCESS" />
 </p>
-
----
 
 <p align="center">
 <a href="mailto:motysha1905@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=flat-square&logo=gmail&logoColor=white" /></a>
