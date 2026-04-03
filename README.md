@@ -45,3 +45,4 @@
 <a href="https://t.me/fi155333"><img src="https://img.shields.io/badge/Telegram-121212?style=flat-square&logo=telegram&logoColor=white" /></a>
 <a href="https://discordapp.com/users/1905trdntfl"><img src="https://img.shields.io/badge/Discord-121212?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
+<sub>Everything is actually a simulation. Including this README.</sub>
