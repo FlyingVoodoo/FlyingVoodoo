@@ -1,4 +1,4 @@
-"Everything is actually a simulation. Including this README."
+""Everything is actually a simulation. Including this README.""
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=100&section=header&text=POINT_OF_VIEW&fontSize=40&fontAlignY=50&animation=twinkling&theme=tokyonight" />
 
 ### FlyingVoodoo writes C++. studies at MAI. that's about it.
