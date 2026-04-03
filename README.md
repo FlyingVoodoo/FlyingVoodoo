@@ -46,4 +46,6 @@
 <a href="https://discordapp.com/users/1905trdntfl"><img src="https://img.shields.io/badge/Discord-121212?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
 
-<sub><i>Everything is actually a simulation. Including this README.</i></sub>
+<p align="right">
+  <sub><i>Don't stop believin'.</i></sub>
+</p>
