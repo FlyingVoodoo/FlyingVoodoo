@@ -36,7 +36,7 @@
   <p align="left">
     <b>"Just when I thought I was out, they pull me back in."</b>
     <br>
-    <i>— Silvio Dante, The Sopranos</i>
+    <i>- Silvio Dante, The Sopranos</i>
   </p>
 </blockquote>
 </details>
