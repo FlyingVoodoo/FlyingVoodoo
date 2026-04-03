@@ -25,6 +25,12 @@
 ---
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FlyingVoodoo&theme=tokyonight&no-frame=true&column=4" />
+</p>
+
+---
+
+<p align="center">
 <a href="mailto:motysha1905@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://t.me/fi155333"><img src="https://img.shields.io/badge/Telegram-121212?style=flat-square&logo=telegram&logoColor=white" /></a>
 <a href="https://discordapp.com/users/1905trdntfl"><img src="https://img.shields.io/badge/Discord-121212?style=flat-square&logo=discord&logoColor=white" /></a>
