@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=100&section=header&text=WELCOME&fontSize=40&fontAlignY=50&animation=twinkling&theme=tokyonight" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=7982DA&center=true&vCenter=true&width=600&lines=FlyingVoodoo+writes+C%2B%2B...;Studies+at+MAI.;Writing+more+code+than+my+IDE.;That's+about+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=7982DA&center=true&vCenter=true&width=600&lines=FlyingVoodoo+writes+C%2B%2B...;Studies+at+MAI.;Writing+more+code+than+my+IDE(mostly).;That's+about+it." alt="Typing SVG" />
 </p>
 
 ---
