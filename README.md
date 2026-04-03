@@ -31,11 +31,13 @@
 <details>
 <summary><b>[ personal_note ]</b></summary>
 <br>
-<kbd>
-&nbsp; "Just when I thought I was out, they pull me back in." &nbsp;
-</kbd>
-<br>
-<p align="right"><i>— Silvio Dante</i></p>
+<blockquote>
+  <p align="left">
+    <b>"Just when I thought I was out, they pull me back in."</b>
+    <br>
+    <i>— Silvio Dante, The Sopranos</i>
+  </p>
+</blockquote>
 </details>
 
 <p align="center">
