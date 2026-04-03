@@ -19,6 +19,12 @@
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingVoodoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=FlyingVoodoo&color=333333&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
