@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=cpp,cs,unreal,cmake,py,docker,linux,postgres&theme=dark](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,unrealengine,cmake,python,docker,linux,postgresql,git,githubactions&theme=dark)" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,unrealengine,cmake,python,docker,linux,postgresql,git,githubactions&theme=dark" />
   </a>
 </p>
 
