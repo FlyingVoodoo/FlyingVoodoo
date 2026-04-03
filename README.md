@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=2f3147&status_color=7982da&user=31mtrw3ujrswku6f6gm2wxdvpnde" width="400" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mtrw3ujrswku6f6gm2wxdvpnde&cover_image=true&theme=tokyonight" width="400" />
 </p>
 
 ---
