@@ -25,12 +25,6 @@
 ---
 
 <p align="center">
-  <img src="https://spotify-readme-rust.vercel.app/api/status?uid=31mtrw3ujrswku6f6gm2wxdvpnde&theme=tokyonight&show_bar=true" width="400" />
-</p>
-
----
-
-<p align="center">
 <a href="mailto:motysha1905@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://t.me/fi155333"><img src="https://img.shields.io/badge/Telegram-121212?style=flat-square&logo=telegram&logoColor=white" /></a>
 <a href="https://discordapp.com/users/1905trdntfl"><img src="https://img.shields.io/badge/Discord-121212?style=flat-square&logo=discord&logoColor=white" /></a>
