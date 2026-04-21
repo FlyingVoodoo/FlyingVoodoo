@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.netlify.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,unrealengine,cmake,python,docker,linux,postgresql,git,githubactions&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,godot,unrealengine,cmake,python,docker,linux,postgresql,git,githubactions&theme=dark" />
   </a>
 </p>
 
