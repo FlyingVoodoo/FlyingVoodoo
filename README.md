@@ -8,14 +8,8 @@
 
 <p align="center">
   <a href="https://go-skill-icons.netlify.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,go,unrealengine,cmake,python,docker,kubernetes,linux,postgresql,redis,ansible,terraform,grafana,prometheus,nginx,git,githubactions,bash,fedora,neoforge&theme=dark&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,go,unrealengine,cmake,python,docker,kubernetes,linux,postgresql,redis,ansible,terraform,grafana,prometheus,nginx,git,githubactions,bash,fedora,neoforge&theme=dark&perline=11" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=white&color=1D1B27" />
-  <img src="https://img.shields.io/badge/Vulkan-%23FFFFFF.svg?style=for-the-badge&logo=vulkan&logoColor=white&color=1D1B27" />
-  <img src="https://img.shields.io/badge/DirectX-%23FFFFFF.svg?style=for-the-badge&logo=microsoft&logoColor=white&color=1D1B27" />
 </p>
 
 <p align="center">
